@@ -1,0 +1,1 @@
+curl -v -H "Accept: application/json" -H "Content-type: application/json" http://localhost:3001/v.1/locations/4f6f0945d5f6f00124000001/facilities/4f6f1406c82dd05624000001
